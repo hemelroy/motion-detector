@@ -1,6 +1,6 @@
+#NOTE: run the file "plot_detections.py", this file will be imported there
 import cv2, time, pandas
 from datetime import datetime
-
 
 video = cv2.VideoCapture(0)
 
